@@ -1,0 +1,6 @@
+{
+  "standard.autoFixOnSave": true,
+  "standard.enableGlobally": true,
+  "standard.engine": "ts-standard",
+  "standard.treatErrorsAsWarnings": true
+}
